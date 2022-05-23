@@ -1,7 +1,7 @@
 # sobre mim  
-- 👋 ola sou @barbaramoorais
-- 👍 meu email de contato e barbara.ticiane.morais@escola.pr.gov.br
-- 👀 eu estou interessado em aprender a programar novas linguagens
+- 🍄ola sou @barbaramoorais
+- 💌 meu email de contato e barbara.ticiane.morais@escola.pr.gov.br
+- 🌴 eu estou interessado em aprender a programar novas linguagens
 - 💞️ eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
 - ✨ meu ig e ba_moorais 
 - ⚡ meu twitter é @bazinha_mo 
